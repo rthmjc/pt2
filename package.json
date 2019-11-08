@@ -8,7 +8,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "server": "live-server public --browser=chrome",
+    "server": "live-server public --port=8010 --browser=chrome",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
